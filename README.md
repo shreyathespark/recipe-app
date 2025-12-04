@@ -20,8 +20,7 @@ A modern, interactive Recipe Generator that creates recipes based on ingredients
 
 - **Frontend:** React, Tailwind CSS, Framer Motion  
 - **Backend:** Node.js, Express  
-- **API:** OpenAI (GPT-3/4) for recipe generation  
-
+- **API:** AI-powered recipe generation using GROQ
 ---
 
 ## 📸 Screenshot
